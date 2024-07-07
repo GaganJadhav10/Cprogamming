@@ -1,0 +1,10 @@
+
+1> a=6, b=8 --- line 2 of 1st call
+
+2> a=8, b=2 ----line 2 of 2nd call
+
+3> a=2, b=0 ---line 2 of 3rd call
+
+4> else a print
+
+

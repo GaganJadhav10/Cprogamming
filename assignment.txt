@@ -1,0 +1,12 @@
+1> print 10 fibonacci numbers
+1 1 2 3 ....
+
+2> input number is palindrome or not
+
+3> Add, Sub, Multip, divide user input 2 numb user will choose operation. 4 times.
+
+4> Ask for input Name, year of birth, phone number, country. And print dynamic statement - "Hello, My name is <name>. I am <age> years old. My phone number is <+Country_code mobile_number>."
+
+eg."Hello, My name is Abhishek. I am 31 years old. My phone number is +33 98765432110.
+
+5) 
