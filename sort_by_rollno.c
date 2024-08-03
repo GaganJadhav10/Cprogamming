@@ -12,14 +12,17 @@ int main()
     struct stud class[100], t;
 
     int j, k ,n;
-
+	printf("Enter no. of students: \n");
     scanf("%d",&n);
 
+	//for input of students details
     for(k=0; k<n; k++)
     {
-        scanf("%d %s %f", &class[k].rollno, class[k].dept_code, &class[k].cgpa);
+        printf("enter student roll no deptcode cgpa: \n");
+		scanf("%d %s %f", &class[k].rollno, class[k].dept_code, &class[k].cgpa);
     }
 
+	// sorting using swaping
     for(j=0; j<n-1; j++)
     {
         for(k=j+1; k<n; k++)
